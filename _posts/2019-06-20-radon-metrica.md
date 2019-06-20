@@ -7,7 +7,7 @@ categories: [python]
 
 [Radon](https://github.com/rubik/radon) es una herramienta para calcular métricas de código `python`.  
 Implementa _Complejidad Ciclomática_, una métrica basada en las estructuras de control, para ello busca el número máximo de pasos que tiene que realizar un código y se le asigna un valor. Mejor explicado en la wikipedia [es](https://es.wikipedia.org/wiki/Complejidad_ciclom%C3%A1tica) y [en](https://en.wikipedia.org/wiki/Cyclomatic_complexity).  
-Una vez radon Evalúa El Código, nos devuelve una nota de A (óptimo) a F (pésimo), y ya nos podemos hacer una idea de si el código que tenemos es complejo para que otra persona o nosotros mismos podamos realizar modificaciones o simplemente entender lo que hace. Deberíamos decidir una nota mínima y cualquier código que veamos con una nota inferior, esforzarnos en refactorizarlo, en el futuro lo agradeceremos.
+Una vez evaluado el código nos devuelve una nota de A (óptimo) a F (pésimo), ya nos podemos hacer una idea de si el código que tenemos es complejo para que otra persona o nosotros mismos podamos realizar modificaciones o simplemente entender lo que hace. Deberíamos decidir una nota mínima y cualquier código que veamos con una nota inferior, esforzarnos en refactorizarlo, en el futuro lo agradeceremos.
 
 Con el siguiente comando veremos los resultados de un fichero o carpeta:
 
