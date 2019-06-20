@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Rando y Complejidad ciclomática"
+title:  "Radon y Complejidad ciclomática"
 date:   2019-06-20 13:20:56 +0200
 categories: [python]
 ---
